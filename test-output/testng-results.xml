@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="46603" started-at="2021-02-05T16:50:27 IST" finished-at="2021-02-05T16:51:14 IST">
+  <suite name="Suite" duration-ms="36116" started-at="2021-02-07T14:09:24 IST" finished-at="2021-02-07T14:10:00 IST">
     <groups>
     </groups>
-    <test name="ChromeTest" duration-ms="10256" started-at="2021-02-05T16:50:27 IST" finished-at="2021-02-05T16:50:37 IST">
+    <test name="ChromeTest" duration-ms="15981" started-at="2021-02-07T14:09:24 IST" finished-at="2021-02-07T14:09:40 IST">
       <class name="Demo.testngDemo.qsp.DemoCross">
-        <test-method status="PASS" signature="TC_1(java.lang.String)[pri:0, instance:Demo.testngDemo.qsp.DemoCross@6e6c3152]" name="TC_1" duration-ms="10223" started-at="2021-02-05T16:50:27 IST" finished-at="2021-02-05T16:50:37 IST">
+        <test-method status="PASS" signature="TC_1(java.lang.String)[pri:0, instance:Demo.testngDemo.qsp.DemoCross@6e6c3152]" name="TC_1" duration-ms="15940" started-at="2021-02-07T14:09:24 IST" finished-at="2021-02-07T14:09:40 IST">
           <params>
             <param index="0">
               <value>
@@ -20,9 +20,9 @@
         </test-method> <!-- TC_1 -->
       </class> <!-- Demo.testngDemo.qsp.DemoCross -->
     </test> <!-- ChromeTest -->
-    <test name="FirefoxTest" duration-ms="46603" started-at="2021-02-05T16:50:27 IST" finished-at="2021-02-05T16:51:14 IST">
+    <test name="FirefoxTest" duration-ms="36116" started-at="2021-02-07T14:09:24 IST" finished-at="2021-02-07T14:10:00 IST">
       <class name="Demo.testngDemo.qsp.DemoCross">
-        <test-method status="PASS" signature="TC_1(java.lang.String)[pri:0, instance:Demo.testngDemo.qsp.DemoCross@51cdd8a]" name="TC_1" duration-ms="46574" started-at="2021-02-05T16:50:27 IST" finished-at="2021-02-05T16:51:14 IST">
+        <test-method status="PASS" signature="TC_1(java.lang.String)[pri:0, instance:Demo.testngDemo.qsp.DemoCross@51cdd8a]" name="TC_1" duration-ms="36085" started-at="2021-02-07T14:09:24 IST" finished-at="2021-02-07T14:10:00 IST">
           <params>
             <param index="0">
               <value>
